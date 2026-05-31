@@ -15,3 +15,7 @@ if __name__ == "__main__":
     print("=== Plant Factory Output ===")
     for plant in plants:
         plant.show()
+
+
+# for plant in range(0, 5):
+    #     plants[plant].show()
